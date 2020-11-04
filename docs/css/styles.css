@@ -1,0 +1,8 @@
+button:focus {
+  outline: none;
+}
+
+.carousel-inner img {
+  max-width: 1240px;
+  max-height: 800px;
+}
